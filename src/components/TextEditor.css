@@ -1,0 +1,37 @@
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+}
+h2 {
+  margin: 0px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: lightblue;
+}
+.App-link {
+  color: #61dafb;
+}
+.etr_cntr {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.etr_cntr .demo-wrapper {
+  width: 70%;
+  border: #bad4eb 2px solid;
+  padding: 15px;
+  border-radius: 10px;
+  background: aliceblue;
+}
+.etr_cntr .rdw-editor-toolbar {
+  background: lightblue;
+}
+
+.etr_cntr .rdw-option-wrapper {
+  background: lightblue;
+}
+.etr_cntr .demo-wrapper .rdw-editor-main {
+  height: 56vh;
+}
