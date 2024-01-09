@@ -1,3 +1,6 @@
+# output for the Text-Editor (deployed in Fire base)
+open [https://draftapp-b191f.web.app/mainpage]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
